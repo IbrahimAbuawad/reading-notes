@@ -12,6 +12,10 @@
 ##### my way to growth mindset 
 ##### advice to keep it up
 
+[what made my mindset growth](https://ibrahimabuawad.github.io/reading-notes/GitSummary)
+ 
+ ##### git summary 
+
 
 
 
