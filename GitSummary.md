@@ -34,7 +34,7 @@
 ##### After staging one or multiple files, you should commit the changes and record what you did within the commit message:
 
 ##### Example:
- ##### $ git commit -m “made change x,y,z”
+##### $ git commit -m “made change x,y,z”
 
 ## Pushing Changes
 ##### Next, you would push changes to a remote repository. We will discuss remote repositories in more depth in the next section. For now, we will look at a general overview of pushing changes to remotes.
