@@ -14,14 +14,14 @@
 
 [what made my mindset growth](https://ibrahimabuawad.github.io/reading-notes/GitSummary)
  
- ##### git summary 
+##### git summary 
 
  [HTMLSummary](https://ibrahimabuawad.github.io/reading-notes/HTMLSummary)
  
- ##### PROCESS & Design
- ##### Structure of HTM
- ##### HTML5 layout
- ##### Extra Markup
+##### PROCESS & Design
+##### Structure of HTM
+##### HTML5 layout
+##### Extra Markup
 
 
 
