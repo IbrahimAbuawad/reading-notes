@@ -36,7 +36,7 @@
 #### Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
 #### To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, 
 ##### Example of HTML5 :
-`<body> 
+`<body>  
 <div class="wrapper">
  <header> 
  <h1>Yoko's Kitchen</h1> 
@@ -50,7 +50,7 @@
   </ul> 
  </nav> 
 </header> 
-</body>`
+</body> `
 
 ## Extra Markup
 #### DOCTYPES tell browsers which version of HTML you are using.
