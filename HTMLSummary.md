@@ -36,20 +36,21 @@
 #### Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
 #### To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, 
 ##### Example of HTML5 :
-`<body>
- <div class="wrapper">
- <header>
- <h1>Yoko's Kitchen</h1>
- <nav>
- <ul>
- <li><a href="" class="current">home</a></li>
- <li><a href="">classes</a></li>
- <li><a href="">catering</a></li>
- <li><a href="">about</a></li>
- <li><a href="">contact</a></li>
- </ul>
- </nav>
- </header>`
+`<body> 
+<div class="wrapper">
+ <header> 
+ <h1>Yoko's Kitchen</h1> 
+ <nav> 
+  <ul> 
+    <li><a href="" class="current">home</a></li> 
+    <li><a href="">classes</a></li> 
+    <li><a href="">catering</a></li> 
+    <li><a href="">about</a></li> 
+    <li><a href="">contact</a></li> 
+  </ul> 
+ </nav> 
+</header> 
+</body>`
 
 ## Extra Markup
 #### DOCTYPES tell browsers which version of HTML you are using.
