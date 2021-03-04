@@ -31,6 +31,14 @@
 ##### SExpressions + Operators
 ##### Functions
 
+[HowComputerWork](https://ibrahimabuawad.github.io/reading-notes/HowComputersWork)
+ 
+##### What makes a Computer a Computer ?
+##### Binary & Data
+##### Circuits and logic
+##### Hardware and software
+
+
 
 
 
