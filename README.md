@@ -23,6 +23,12 @@
 ##### HTML5 layout
 ##### Extra Markup
 
+[HTMLSummary](https://ibrahimabuawad.github.io/reading-notes/JavaScript_jQuery_Summary)
+ 
+##### Intro + Scripts
+##### SExpressions + Operators
+##### Functions
+
 
 
 
