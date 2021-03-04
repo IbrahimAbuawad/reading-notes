@@ -38,7 +38,10 @@
 ##### Circuits and logic
 ##### Hardware and software
 
-
+[JavaScript summary](https://ibrahimabuawad.github.io/reading-notes/Read4c)
+ 
+##### Java Script
+##### variabls
 
 
 
