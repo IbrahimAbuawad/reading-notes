@@ -48,5 +48,9 @@
 ##### Comparison and logical operators
 ##### Loops
 
+[Css and color](https://ibrahimabuawad.github.io/reading-notes/Css_Color)
+
+##### Css
+##### Color
 
 
