@@ -43,6 +43,10 @@
 ##### Java Script
 ##### variabls
 
+[Read 5 Summary](https://ibrahimabuawad.github.io/reading-notes/Read5)
+
+##### Comparison and logical operators
+##### Loops
 
 
 
