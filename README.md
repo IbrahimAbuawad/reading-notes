@@ -48,10 +48,17 @@
 ##### Comparison and logical operators
 ##### Loops
 
+<<<<<<< HEAD
 [markdown 201](https://ibrahimabuawad.github.io/reading-notes/MarkDown201)
 
 
 ##### what is markdown
 ##### GitHub Flavored Markdown
+=======
+[Css and color](https://ibrahimabuawad.github.io/reading-notes/Css_Color)
+
+##### Css
+##### Color
+>>>>>>> f1eee7304f923e3226c0a7e63edaf2858eeec402
 
 
