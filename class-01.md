@@ -62,3 +62,11 @@
 
 #### The HTML <script> element is used in HTML pages  to tell the browser to load the JavaScript file (rather like  the <link> element can be used to load a CSS file). 
 #### If you view the source code of the page in the browser,  the JavaScript will not have changed the HTML,  because the script works with the model of the web  page that the browser has created. 
+
+
+
+*List of vocabulary*
+###### string is traditionally a sequence of characters, either as a literal constant or as some kind of variable.
+###### Int, short for "integer," is a fundamental variable type built into the compiler and used to define numeric variables holding whole numbers.
+######  events are "things" that happen to HTML elements. When JavaScript is used in HTML pages, JavaScript can "react" on these events.
+###### A function is a block of code that performs an action or returns a value. Functions are custom code defined by programmers that are reusable, and can therefore make your programs more modular and efficient.
