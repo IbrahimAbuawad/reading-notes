@@ -81,6 +81,14 @@
 ###### Basic JS Instructions
 ###### Decisions and loops
 
+[Class-02](https://ibrahimabuawad.github.io/reading-notes/class-03)
 
+##### HTML
+###### List
+###### Boxes
+
+##### JavaScript
+###### Basic JS Instructions
+###### Decisions and loops(Switch)
 
 
