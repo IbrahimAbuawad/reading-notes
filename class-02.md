@@ -6,13 +6,14 @@
 ##### Example of paragraph :
 `<p>Content</p>`
 
-#### the **<del>** element can show text that has been deleted from it.
+#### the **del** element can show text that has been deleted from it.
 ##### Example of del tag :
 `<del>content</del> `
-###### it will be ~content~ 
+###### it will be 
+~content~ 
 
-#### **<br>** the browser will automatically show each new paragraph or heading  on a new line. 
-#### The **<sup>** element is used  to contain characters that  should be superscript
+#### **br** the browser will automatically show each new paragraph or heading  on a new line. 
+#### The **sup** element is used  to contain characters that  should be superscript
 #### They also provide semantic information (e.g. where  emphasis should be placed, the definition of any acronyms used, when given text is a quotation).
 
 ### Introducing CSS
