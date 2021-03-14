@@ -71,6 +71,15 @@
 ##### JavaScript
 ###### ABC Beginning
 
+[Class-02](https://ibrahimabuawad.github.io/reading-notes/class-02)
+
+##### HTML
+###### Text
+###### Introducing CSS
+
+##### JavaScript
+###### Basic JS Instructions
+###### Decisions and loops
 
 
 
