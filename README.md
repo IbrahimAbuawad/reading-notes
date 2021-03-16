@@ -81,7 +81,7 @@
 ###### Basic JS Instructions
 ###### Decisions and loops
 
-[Class-02](https://ibrahimabuawad.github.io/reading-notes/class-03)
+[Class-03](https://ibrahimabuawad.github.io/reading-notes/class-03)
 
 ##### HTML
 ###### List
@@ -91,4 +91,14 @@
 ###### Basic JS Instructions
 ###### Decisions and loops(Switch)
 
+[Class-04](https://ibrahimabuawad.github.io/reading-notes/class-04)
+
+##### HTML
+###### Links
+###### Layout
+
+##### JavaScript
+###### Functions, Methods, and Objects
+
+##### 6 Reasons for Pair Programming
 
