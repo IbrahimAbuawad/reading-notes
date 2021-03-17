@@ -11,7 +11,7 @@
 | what made my mindset growth   | [what made my mindset growth](https://ibrahimabuawad.github.io/reading-notes/myway)       |
 | what made my mindset growth part 2          | [what made my mindset growth](https://ibrahimabuawad.github.io/reading-notes/GitSummary)            |
 | HTMLSummary            | [HTMLSummary](https://ibrahimabuawad.github.io/reading-notes/HTMLSummary)
-| JavaScriptSummary            | [JavaScriptSummary](https://ibrahimabuawad.github.io/reading-notes/ JavaScript_jQuery_Summary)
+| JavaScriptSummary            | [JavaScriptSummary](https://ibrahimabuawad.github.io/reading-notes/JavaScript_jQuery_Summary)
 | HowComputerWork            | [HowComputerWork](https://ibrahimabuawad.github.io/reading-notes/HowComputersWork)
 | JavaScript summary            | [JavaScript summary](https://ibrahimabuawad.github.io/reading-notes/Read4c)
 | Read 5 Summary            | [Read 5 Summary](https://ibrahimabuawad.github.io/reading-notes/Read5)             | 
