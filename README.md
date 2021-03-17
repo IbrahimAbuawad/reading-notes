@@ -22,4 +22,4 @@
 | Class-03_Summary            | [Class-03](https://ibrahimabuawad.github.io/reading-notes/class-03)
 | Class-04_Summary            | [Class-04](https://ibrahimabuawad.github.io/reading-notes/class-04) |
 | Class-05_Summary            | [Class-05](https://ibrahimabuawad.github.io/reading-notes/Class-05) |
-| Class-06_Summary            | [Class-05](https://ibrahimabuawad.github.io/reading-notes/Class-06) |
+| Class-06_Summary            | [Class-06](https://ibrahimabuawad.github.io/reading-notes/Class-06) |
