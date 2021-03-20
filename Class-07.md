@@ -1,3 +1,22 @@
+## Domain Modeling
+#### Domain modeling is the process of creating a conceptual model for a specific problem. And a domain model that's articulated well can verify and validate your understanding of that problem.
+#### To define the same properties between many objects, you'll want to use a constructor function.
+##### Here's an implementation of the EpicFailVideo constructor function.
+###### var EpicFailVideo = function(epicRating, hasAnimals) {this.epicRating = epicRating; this.hasAnimals = hasAnimals; } 
+
+#### To model the random nature of user behavior, you'll need the help of a random number generator. Fortunately, the JavaScript standard library includes a Math.random() function.
+
+
+## HTML 
+### Tables
+#### The **table** element is used to add tables to a web page.
+#### A table is drawn out row by row. Each row is created with the *tr* element.
+#### Inside each row there are a number of cells represented by the *td* element (or *th* if it is a header) .
+#### You can make cells of a table span more than one row or column using the rowspan and colspan attributes.
+#### For long tables you can split the table into a *thead*, *tbody*, and *tfoot* .
+![Table](https://a.ilovecoding.org/img/table-all-about-creating-simple-to-complex-html-tables-sc18.png)
+
+
 ## JavaScript
 ### Functions, Methods, and Objects
 #### Functions let you group a series of statements together to perform a  specific task. If different parts of a script repeat the same task, you can  reuse the function (rather than repeating the same set of statements). 
@@ -29,26 +48,3 @@
 
 #### Arrays and objects can be used to create complex data sets .
 ###### {accom: 460, food: 20, phone: 20} 
-
-
-### DOM
-#### The browser represents the page using a DOM tree. 
-#### DOM trees have four types of nodes:
-##### + document nodes.
-##### + element nodes.
-##### + attribute nodes. 
-##### + and text nodes.
-
-#### You can select element nodes by their id or cl ass attributes, **by tag name**, or **using CSS selector syntax**. 
-#### Whenever a DOM query can return more than one node, it will always return a Nadel i st. 
-#### From an element node, you can access and update its content using properties such as textContent and i nnerHTML or using DOM manipulation techniques. 
-##### Example:
-*let el = document .querySel ector('li .hot ' };*
-
-#### An element node can contain multiple text nodes and 
-#### child elements that are siblings of each other.
-
- ![DOM](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/08/Js-Dom-Tree.png)
- 
-#### In older browsers, implementation of the DOM is inconsistent (and is a popular reason for using jQuery). 
-#### Browsers offer tools for viewing the DOM tree . 
