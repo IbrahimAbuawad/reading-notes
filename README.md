@@ -26,6 +26,8 @@
 | Class-07_Summary            | [Class-07](https://ibrahimabuawad.github.io/reading-notes/Class-07) |
 | Class-08_Summary            | [Class-08](https://ibrahimabuawad.github.io/reading-notes/Class-08) |
 | Class-09_Summary            | [Class-09](https://ibrahimabuawad.github.io/reading-notes/Class-09) |
+| Class-10_Summary            | [Class-10](https://ibrahimabuawad.github.io/reading-notes/Class-10) |
+
 
 
 
