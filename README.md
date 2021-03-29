@@ -30,6 +30,9 @@
 | Class-11_Summary            | [Class-11](https://ibrahimabuawad.github.io/reading-notes/Class-11) |
 | Class-12_Summary            | [Class-12](https://ibrahimabuawad.github.io/reading-notes/Class-12) |
 | Class-13_Summary            | [Class-13](https://ibrahimabuawad.github.io/reading-notes/Class-13) |
+| Class-14a_Summary            | [Class-14a](https://ibrahimabuawad.github.io/reading-notes/Class-14a) |
+| Class-14b_Summary            | [Class-14b](https://ibrahimabuawad.github.io/reading-notes/Class-14b) |
+
 
 
 
