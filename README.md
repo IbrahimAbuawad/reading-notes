@@ -48,6 +48,8 @@
 | Title      | Link |
 | ----------- | ----------- |
 | Class-01_Summary | [Class-01](https://ibrahimabuawad.github.io/reading-notes/301/class-01)             |
+| Class-02_Summary | [Class-02](https://ibrahimabuawad.github.io/reading-notes/301/class-02)             |
+
 
 
 
