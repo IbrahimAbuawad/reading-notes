@@ -49,8 +49,12 @@
 | ----------- | ----------- |
 | Class-01_Summary | [Class-01](https://ibrahimabuawad.github.io/reading-notes/301/class-01)             |
 | Class-02_Summary | [Class-02](https://ibrahimabuawad.github.io/reading-notes/301/class-02)             |
+<<<<<<< HEAD
 | Class-03_Summary | [Class-03](https://ibrahimabuawad.github.io/reading-notes/301/class-03)             |
 
+=======
+| Class-02_Summary | [Class-02](https://ibrahimabuawad.github.io/reading-notes/301/class-03)             |
+>>>>>>> e800debc84d7cd2e716e85e2667331c35451a586
 
 
 

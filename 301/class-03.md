@@ -8,7 +8,7 @@
 
 #### We can combine the two by making the React state be the “single source of truth”.
 
-#### In HTML, a <textarea> element defines its text by its children:
+#### In HTML, a textarea element defines its text by its children:
 
 ```
 <textarea>
@@ -16,7 +16,7 @@
 </textarea>
 ```
 
-#### In React, a <textarea> uses a value attribute instead: 
+#### In React, a <textarea uses a value attribute instead: 
 
 ```
   render() {
@@ -32,7 +32,7 @@
   }
 ```
 
-#### In HTML, <select> creates a drop-down list. For example: 
+#### In HTML, <select creates a drop-down list. For example: 
 
 ```
 <select>
