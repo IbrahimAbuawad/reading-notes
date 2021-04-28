@@ -50,6 +50,8 @@
 | Class-01_Summary | [Class-01](https://ibrahimabuawad.github.io/reading-notes/301/class-01)             |
 | Class-02_Summary | [Class-02](https://ibrahimabuawad.github.io/reading-notes/301/class-02)             |
 | Class-03_Summary | [Class-03](https://ibrahimabuawad.github.io/reading-notes/301/class-03)             |
+| Class-04_Summary | [Class-04](https://ibrahimabuawad.github.io/reading-notes/301/class-04)             |
+
 
 
 
