@@ -56,6 +56,10 @@
 | Class-08_Summary | [Class-08](https://ibrahimabuawad.github.io/reading-notes/301/class-08)             |
 | Class-09_Summary | [Class-09](https://ibrahimabuawad.github.io/reading-notes/301/class-09)             |
 | Class-10_Summary | [Class-10](https://ibrahimabuawad.github.io/reading-notes/301/class-10)             |
+| Class-11_Summary | [Class-11](https://ibrahimabuawad.github.io/reading-notes/301/class-11)             |
+| Class-12_Summary | [Class-12](https://ibrahimabuawad.github.io/reading-notes/301/class-12)             |
+
+
 
 
 
