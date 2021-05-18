@@ -59,6 +59,8 @@
 | Class-11_Summary | [Class-11](https://ibrahimabuawad.github.io/reading-notes/301/class-11)             |
 | Class-12_Summary | [Class-12](https://ibrahimabuawad.github.io/reading-notes/301/class-12)             |
 | Class-13_Summary | [Class-13](https://ibrahimabuawad.github.io/reading-notes/301/class-13)             |
+| Class-14_Summary | [Class-14](https://ibrahimabuawad.github.io/reading-notes/301/class-14)             |
+
 
 
 
