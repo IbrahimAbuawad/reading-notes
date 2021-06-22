@@ -64,16 +64,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Code 401 - Advanced Software Development
 
+| Title      | Link |
+| ----------- | ----------- |
+| Class-01_Summary | [Class-01](https://ibrahimabuawad.github.io/reading-notes/401/class01)             |
