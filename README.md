@@ -69,3 +69,5 @@
 | Title      | Link |
 | ----------- | ----------- |
 | PreWork_Summary | [pre work](https://ibrahimabuawad.github.io/reading-notes/401/class01)             |
+| class_01_Summary | [class_01](https://ibrahimabuawad.github.io/reading-notes/401/class_01)             |
+
