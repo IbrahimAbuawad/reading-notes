@@ -70,4 +70,5 @@
 | ----------- | ----------- |
 | PreWork_Summary | [pre work](https://ibrahimabuawad.github.io/reading-notes/401/class01)             |
 | class_01_Summary | [class_01](https://ibrahimabuawad.github.io/reading-notes/401/class_01)             |
+| class_02_Summary | [class_02](https://ibrahimabuawad.github.io/reading-notes/401/class_02)             |
 
