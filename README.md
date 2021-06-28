@@ -26,19 +26,19 @@
 
 | Title      | Link |
 | ----------- | ----------- |
-| Class-01_Summary            | [Class-01](https://ibrahimabuawad.github.io/reading-notes/class-01)             |
-| Class-02_Summary            | [Class-02](https://ibrahimabuawad.github.io/reading-notes/class-02)             |
-| Class-03_Summary            | [Class-03](https://ibrahimabuawad.github.io/reading-notes/class-03) |
-| Class-04_Summary            | [Class-04](https://ibrahimabuawad.github.io/reading-notes/class-04) |
-| Class-05_Summary            | [Class-05](https://ibrahimabuawad.github.io/reading-notes/Class-05) |
-| Class-06_Summary            | [Class-06](https://ibrahimabuawad.github.io/reading-notes/Class-06) |
-| Class-07_Summary            | [Class-07](https://ibrahimabuawad.github.io/reading-notes/Class-07) |
-| Class-08_Summary            | [Class-08](https://ibrahimabuawad.github.io/reading-notes/Class-08) |
-| Class-09_Summary            | [Class-09](https://ibrahimabuawad.github.io/reading-notes/Class-09) |
-| Class-10_Summary            | [Class-10](https://ibrahimabuawad.github.io/reading-notes/Class-10) |
-| Class-11_Summary            | [Class-11](https://ibrahimabuawad.github.io/reading-notes/Class-11) |
-| Class-12_Summary            | [Class-12](https://ibrahimabuawad.github.io/reading-notes/Class-12) |
-| Class-13_Summary            | [Class-13](https://ibrahimabuawad.github.io/reading-notes/Class-13) |
+| Class-01_Summary             | [Class-01](https://ibrahimabuawad.github.io/reading-notes/class-01)   |
+| Class-02_Summary             | [Class-02](https://ibrahimabuawad.github.io/reading-notes/class-02)   |
+| Class-03_Summary             | [Class-03](https://ibrahimabuawad.github.io/reading-notes/class-03)   |
+| Class-04_Summary             | [Class-04](https://ibrahimabuawad.github.io/reading-notes/class-04)   |
+| Class-05_Summary             | [Class-05](https://ibrahimabuawad.github.io/reading-notes/Class-05)   |
+| Class-06_Summary             | [Class-06](https://ibrahimabuawad.github.io/reading-notes/Class-06)   |
+| Class-07_Summary             | [Class-07](https://ibrahimabuawad.github.io/reading-notes/Class-07)   |
+| Class-08_Summary             | [Class-08](https://ibrahimabuawad.github.io/reading-notes/Class-08)   |
+| Class-09_Summary             | [Class-09](https://ibrahimabuawad.github.io/reading-notes/Class-09)   |
+| Class-10_Summary             | [Class-10](https://ibrahimabuawad.github.io/reading-notes/Class-10)   |
+| Class-11_Summary             | [Class-11](https://ibrahimabuawad.github.io/reading-notes/Class-11)   |
+| Class-12_Summary             | [Class-12](https://ibrahimabuawad.github.io/reading-notes/Class-12)   |
+| Class-13_Summary             | [Class-13](https://ibrahimabuawad.github.io/reading-notes/Class-13)   |
 | Class-14a_Summary            | [Class-14a](https://ibrahimabuawad.github.io/reading-notes/Class-14a) |
 | Class-14b_Summary            | [Class-14b](https://ibrahimabuawad.github.io/reading-notes/Class-14b) |
 
@@ -68,7 +68,8 @@
 
 | Title      | Link |
 | ----------- | ----------- |
-| PreWork_Summary | [pre work](https://ibrahimabuawad.github.io/reading-notes/401/class01)             |
+| PreWork_Summary  | [pre work](https://ibrahimabuawad.github.io/reading-notes/401/class01)              |
 | class_01_Summary | [class_01](https://ibrahimabuawad.github.io/reading-notes/401/class_01)             |
 | class_02_Summary | [class_02](https://ibrahimabuawad.github.io/reading-notes/401/class_02)             |
+| class_03_Summary | [class_03](https://ibrahimabuawad.github.io/reading-notes/401/class_03)             |
 
