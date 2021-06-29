@@ -72,4 +72,5 @@
 | class_01_Summary | [class_01](https://ibrahimabuawad.github.io/reading-notes/401/class_01)             |
 | class_02_Summary | [class_02](https://ibrahimabuawad.github.io/reading-notes/401/class_02)             |
 | class_03_Summary | [class_03](https://ibrahimabuawad.github.io/reading-notes/401/class_03)             |
+| class_04_Summary | [class_04](https://ibrahimabuawad.github.io/reading-notes/401/class_04)             |
 
