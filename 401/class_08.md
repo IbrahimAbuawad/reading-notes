@@ -60,8 +60,15 @@
 
 - I will be excited when I can see the picture in a crystal clear view
 
+## RBAC
+
+`RBAC` is the idea of assigning system access to users based on their role in an organization. It's important to remember that not every employee needs a starring role.
+
+It's nothing more than the idea of assigning system access to users based on their role within an organization. The system needs of a given workforce are analyzed, with users grouped into roles based on common job responsibilities and system access needs.
+
 ## References:
-
+[RBAC tutorial](https://www.youtube.com/watch?v=C4NP8Eon3cA)
+[5 steps to RBAC](https://www.csoonline.com/article/3060780/5-steps-to-simple-role-based-access-control.html)
+[wiki - RBAC](https://en.wikipedia.org/wiki/Role-based_access_control)
 - https://digitalguardian.com/blog/what-data-encryption#:~:text=Data%20encryption%20translates%20data%20into,unencrypted%20data%20is%20called%20plaintext.
-
 - https://stackoverflow.com/questions/4448661/what-is-the-exact-definition-of-token
