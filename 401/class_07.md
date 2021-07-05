@@ -67,6 +67,17 @@
 
 - I want to build a fully functional app like twitter just to see if i can
 
+
+## What is JWT ? JSON Web Token Explained
+
+- JWTs are compact, they can be sent over URL easily
+- JWTs are intended for use between any two parteis.
+- JWT is an Open Standard
+
+## Is JWT secure?
+
+- if you don't know the secret, you can't modify the JWT
+
 ## References:
 
 - https://www.oauth.com/oauth2-servers/client-registration/client-id-secret/
