@@ -80,6 +80,8 @@
 | class_09_Summary | [class_09](https://ibrahimabuawad.github.io/reading-notes/401/class_09)             |
 | class_10_Summary | [class_10](https://ibrahimabuawad.github.io/reading-notes/401/class_10)             |
 | class_11_Summary | [class_11](https://ibrahimabuawad.github.io/reading-notes/401/class_11)             |
+| class_12_Summary | [class_12](https://ibrahimabuawad.github.io/reading-notes/401/class_12)             |
+
 
 
 
