@@ -2,26 +2,12 @@
 
 ## Review, Research, and Discussion
 
-1. What is the benefit of transforming data into packets?
 
 - Complete file does not have to be downloaded in order to receive output.
 - User can immediately start viewing data even though the complete file has not been transferred over. (Streaming services)
-
-2. UDP is often refereed to as a connectionless protocol. Why is this?
-
 - UDP does not require a virtural circut to be established before any data transfer occurs
-
-3. Can a socket server application have multiple socket connections?
-
-- Yes, a single port can accept 1 or more connections simultaneously
-
-4. Can a socket connection application be connected to multiple socket servers?
-
-- No, it Cannot
-
-5. Can an application be both a socket server and a socket connection?
-
-- Yes, I suppose so... The connections would be distinguished by a new variable with a different port or port endpoint
+- a single port can accept 1 or more connections simultaneously
+- The connections would be distinguished by a new variable with a different port or port endpoint
 
 ## Terminology
 
