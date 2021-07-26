@@ -86,6 +86,8 @@
 | class_15_Summary | [class_15](https://ibrahimabuawad.github.io/reading-notes/401/class_15)             |
 | class_16_Summary | [class_16](https://ibrahimabuawad.github.io/reading-notes/401/class_16)             |
 | class_17_Summary | [class_17](https://ibrahimabuawad.github.io/reading-notes/401/class_17)             |
+| class_18_Summary | [class_18](https://ibrahimabuawad.github.io/reading-notes/401/class_18)             |
+
 
 
 
