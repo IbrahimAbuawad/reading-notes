@@ -92,20 +92,4 @@
 | class_27_Summary | [class_27](https://ibrahimabuawad.github.io/reading-notes/401/class_27)             |
 | class_28_Summary | [class_28](https://ibrahimabuawad.github.io/reading-notes/401/class_28)             |
 | class_29_Summary | [class_29](https://ibrahimabuawad.github.io/reading-notes/401/class_29)             |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| class_30_Summary | [class_30](https://ibrahimabuawad.github.io/reading-notes/401/class_30)             |
