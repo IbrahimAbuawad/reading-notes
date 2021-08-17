@@ -96,6 +96,8 @@
 | class_31_Summary | [class_31](https://ibrahimabuawad.github.io/reading-notes/401/class_31)             |
 | class_32_Summary | [class_32](https://ibrahimabuawad.github.io/reading-notes/401/class_32)             |
 | class_33_Summary | [class_33](https://ibrahimabuawad.github.io/reading-notes/401/class_33)             |
+| class_34_Summary | [class_34](https://ibrahimabuawad.github.io/reading-notes/401/class_34)             |
+
 
 
 
