@@ -8,18 +8,18 @@
 
 ## Code 102 - Intro to Software Development
 
-| Title      | Link |
-| ----------- | ----------- |
-| about markdown      | [about markdown](https://ibrahimabuawad.github.io/reading-notes/MarkDown_Inf)       |
-| what made my mindset growth   | [what made my mindset growth](https://ibrahimabuawad.github.io/reading-notes/myway)       |
-| what made my mindset growth part 2          | [what made my mindset growth](https://ibrahimabuawad.github.io/reading-notes/GitSummary)            |
-| HTMLSummary            | [HTMLSummary](https://ibrahimabuawad.github.io/reading-notes/HTMLSummary) |
-| JavaScriptSummary            | [JavaScriptSummary](https://ibrahimabuawad.github.io/reading-notes/JavaScript_jQuery_Summary) |
-| HowComputerWork            | [HowComputerWork](https://ibrahimabuawad.github.io/reading-notes/HowComputersWork)|
-| JavaScript summary            | [JavaScript summary](https://ibrahimabuawad.github.io/reading-notes/Read4c)|
-| Read 5 Summary            | [Read 5 Summary](https://ibrahimabuawad.github.io/reading-notes/Read5)             | 
-| Css and color            | [Css and color](https://ibrahimabuawad.github.io/reading-notes/Css_Color)             | 
-| markdown 201            | [markdown 201](https://ibrahimabuawad.github.io/reading-notes/MarkDown201)            |
+| Title               |                  Link |
+| ------------------  | --------------------- |
+| about markdown                              | [about markdown](https://ibrahimabuawad.github.io/reading-notes/MarkDown_Inf)                   |
+| what made my mindset growth                 | [what made my mindset growth](https://ibrahimabuawad.github.io/reading-notes/myway)             |
+| what made my mindset growth part 2          | [what made my mindset growth](https://ibrahimabuawad.github.io/reading-notes/GitSummary)        |
+| HTMLSummary                                 | [HTMLSummary](https://ibrahimabuawad.github.io/reading-notes/HTMLSummary)                       |
+| JavaScriptSummary                           | [JavaScriptSummary](https://ibrahimabuawad.github.io/reading-notes/JavaScript_jQuery_Summary)   |
+| HowComputerWork                             | [HowComputerWork](https://ibrahimabuawad.github.io/reading-notes/HowComputersWork)              |
+| JavaScript summary                          | [JavaScript summary](https://ibrahimabuawad.github.io/reading-notes/Read4c)                     |
+| Read 5 Summary                              | [Read 5 Summary](https://ibrahimabuawad.github.io/reading-notes/Read5)                          |  
+| Css and color                               | [Css and color](https://ibrahimabuawad.github.io/reading-notes/Css_Color)                       | 
+| markdown 201                                | [markdown 201](https://ibrahimabuawad.github.io/reading-notes/MarkDown201)                      |
 
 
 ## Code 201 - Foundations of Software Development
@@ -102,11 +102,4 @@
 | class_37_Summary | [class_37](https://ibrahimabuawad.github.io/reading-notes/401/class_37)             |
 | class_38_Summary | [class_38](https://ibrahimabuawad.github.io/reading-notes/401/class_38)             |
 | class_39_Summary | [class_39](https://ibrahimabuawad.github.io/reading-notes/401/class_39)             |
-
-
-
-
-
-
-
 
