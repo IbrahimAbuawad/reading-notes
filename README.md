@@ -102,4 +102,6 @@
 | class_37_Summary | [class_37](https://ibrahimabuawad.github.io/reading-notes/401/class_37)             |
 | class_38_Summary | [class_38](https://ibrahimabuawad.github.io/reading-notes/401/class_38)             |
 | class_39_Summary | [class_39](https://ibrahimabuawad.github.io/reading-notes/401/class_39)             |
+| class_41_Summary | [class_41](https://ibrahimabuawad.github.io/reading-notes/401/class_41)             |
+
 
